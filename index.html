@@ -473,9 +473,25 @@
       font-weight: 500
     }
 
-    .c6 {
-      background-color: #ffffff;
-      padding: 2em
+    @media (orientation: landscape) {
+      .c6 {
+        background-color: #ffffff;
+        padding: 2em 12em
+      }
+    }
+
+    @media (min-width : 80em) and (orientation: landscape) {
+      .c6 {
+        background-color: #ffffff;
+        padding: 2em 28em
+      }
+    }
+
+    @media (orientation: portrait) {
+      .c6 {
+        background-color: #ffffff;
+        padding: 2em
+      }
     }
 
     .c8 {
