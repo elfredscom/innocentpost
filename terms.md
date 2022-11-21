@@ -1,7 +1,4 @@
-# Privacy Policy
-
-We use Google Workspace for communication and account management, Stripe for processing payments and billing, and Google Analytics for data collection (the "Service Providers"). We use your data to provide you with evident services. We do not share or sell your data to any third party for any other purposes.
-
+### Read in conjunction with the [Privacy Policy](/privacy) and [Cancellation & Refund Policy](/cancel)
 # Terms of Service
 
 This is a legal agreement (the "Agreement") between Innocent Post ("We", "Us", "Our") and the user ("you", "your", or the legal guardian/representative on behalf of the user if the user is not capable of entering into the agreement on its own) of any service provided by us (the "Services").
